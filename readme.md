@@ -12,7 +12,7 @@ Tout fonctionne parfaitement avec la solution d'Emre détaillée ci-dessous, mai
    
    Pour faire court : 
    
-   $f : \mathbb{N} \times \llbracket 1, 15 \rrbracket \longrightarrow \mathbb{R}$
+   $f : \mathbb{N} \times [1, 15] \longrightarrow \mathbb{R}$
    
     $f : (n, s) \longmapsto \sum_{i=0}^{s} \left(e^{\frac{2n-5}{10}} - e^{\frac{-5}{10}}\right)$
    
