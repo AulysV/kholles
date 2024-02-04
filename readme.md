@@ -56,12 +56,12 @@ Nous nous sommes mis d'accord pour crééer un Google Sheets d'après l'idée d'
 
 |                            | Maths | Physique | Anglais | Français |
 | -------------------------- | ----- | -------- | ------- | -------- |
-| Emre Demir                 | 0     | 0        | 0       | 0        |
-| Lino Fronuis               | 0     | 0        | 0       | 0        |
-| Alina Kaddour              | 0     | 0        | 0       | 0        |
-| Kévin Orduluoglu           | 0     | 0        | 0       | 0        |
-| Bryan Reginold Pirapakaran | 0     | 0        | 0       | 0        |
-| Aulys Vinay                | 0     | 0        | 0       | 0        |
+| Emre                       | 0     | 0        | 0       | 0        |
+| Lino                       | 0     | 0        | 0       | 0        |
+| Alina                      | 0     | 0        | 0       | 0        |
+| Kévin                      | 0     | 0        | 0       | 0        |
+| Bryan                      | 0     | 0        | 0       | 0        |
+| Aulys                      | 0     | 0        | 0       | 0        |
 
 Les points seraient rajoutés à la main, pour chaque khôlle faite. 
 Problèmes : 
