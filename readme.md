@@ -76,12 +76,12 @@ Problèmes :
 
 |                  | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Semaine 5 | Semaine 6 | Semaine 7 | Semaine 8 | Semaine 9 | Semaine 10 | Semaine 11 | Semaine 12 | Semaine 13 | Semaine 14 | Semaine 15 | Points |
 | ---------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------ |
-| Emre Demir       | Maths     | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
-| Lino Fronuis     | Physique  | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
-| Alina Kaddour    | Maths     | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
-| Kévin Orduluoglu | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
-| Bryan Reginold   | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
-| Aulys Vinay      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
+| Emre       | Maths     | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
+| Lino     | Physique  | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
+| Alina    | Maths     | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
+| Kévin | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
+| Bryan   | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
+| Aulys      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>      | <br>       | <br>       | <br>       | <br>       | <br>       | <br>       | x      |
 
 Dans la colonne des points : il pourrait être judiceux de rajouter une formule qui permet de crééer un score en fonction du nombre de khôlles et selon la matière. 
 
